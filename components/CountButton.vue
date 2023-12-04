@@ -31,7 +31,3 @@ export default {
   },
 };
 </script>
-
-<style>
-/* Your component-specific styles here */
-</style>
