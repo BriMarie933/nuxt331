@@ -1,7 +1,7 @@
 <template>
     <footer>
       <div class="container">
-        <p>&copy; 2023 Your Company</p>
+        <p>&copy; 2023 Rohan and Brianna Inc</p>
       </div>
     </footer>
   </template>
