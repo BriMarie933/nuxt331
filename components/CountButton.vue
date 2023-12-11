@@ -31,7 +31,11 @@ export default {
   },
 };
 </script>
-
-<style>
-/* Your component-specific styles here */
+<style scoped>
+p {
+  color: white;
+}
+button {
+  color:white;
+}
 </style>
